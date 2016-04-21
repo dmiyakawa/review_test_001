@@ -183,5 +183,10 @@ colophon: true
 # fontdir内から取り込まれる対象となるファイル拡張子。省略した場合は以下
 # font_ext: ["ttf", "woff", "otf"]
 
-texstyle: reviewmacro
+texstyle: reviewmacro 
+texdocumentclass: ['jsbook', 'b5paper,openany,tombo']
+dvicommand: dvipdfmx
+dvioptions: "-p a4 -x 40 -y 58"
+
 debug: true
+
