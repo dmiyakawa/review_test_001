@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.11.11)  26 APR 2016 16:36
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.11.11)  26 APR 2016 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -636,16 +636,16 @@ LaTeX Font Info:    ... okay on input line 188.
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
 * driver: dvips
-* paper: b5paper
+* paper: b5j
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(92.46872pt, 315.83105pt, 92.46872pt)
-* v-part:(T,H,B)=(92.46872pt, 507.88771pt, 110.96246pt)
-* \paperwidth=500.7685pt
-* \paperheight=711.3189pt
-* \textwidth=315.83105pt
-* \textheight=507.88771pt
+* h-part:(L,W,R)=(92.46872pt, 332.90271pt, 92.46872pt)
+* v-part:(T,H,B)=(92.46872pt, 527.80464pt, 110.96246pt)
+* \paperwidth=517.84015pt
+* \paperheight=731.23582pt
+* \textwidth=332.90271pt
+* \textheight=527.80464pt
 * \oddsidemargin=20.19873pt
 * \evensidemargin=20.19873pt
 * \topmargin=-16.87291pt
@@ -745,7 +745,7 @@ LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
 (Font)              scaled to size 13.31541pt on input line 269.
 
-Overfull \hbox (82.50752pt too wide) in paragraph at lines 269--272
+Overfull \hbox (65.43587pt too wide) in paragraph at lines 269--272
 [][] 
  []
 
@@ -754,7 +754,7 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 4.62341pt on input line 275.
 
-Overfull \hbox (82.50752pt too wide) in paragraph at lines 275--284
+Overfull \hbox (65.43587pt too wide) in paragraph at lines 275--284
 [][] 
  []
 
@@ -770,12 +770,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 290.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 290.
  ) 
 Here is how much of TeX's memory you used:
- 9337 strings out of 493777
- 130353 string characters out of 6151333
- 215335 words of memory out of 5000000
- 12715 multiletter control sequences out of 15000+600000
+ 9338 strings out of 493777
+ 130359 string characters out of 6151333
+ 215341 words of memory out of 5000000
+ 12716 multiletter control sequences out of 15000+600000
  26000 words of font info for 81 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  29i,11n,45p,330b,991s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book.dvi (4 pages, 4500 bytes).
+Output written on book.dvi (4 pages, 4504 bytes).

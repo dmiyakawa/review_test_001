@@ -184,7 +184,7 @@ colophon: true
 # font_ext: ["ttf", "woff", "otf"]
 
 texstyle: reviewmacro 
-texdocumentclass: ['jsbook', 'b5paper,openany,tombo']
+texdocumentclass: ['jsbook', 'b5j,openany,tombo']
 dvicommand: dvipdfmx
 dvioptions: "-p 262mm,374mm -x 40mm -y 58mm"
 
