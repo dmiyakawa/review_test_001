@@ -186,7 +186,7 @@ colophon: true
 texstyle: reviewmacro 
 texdocumentclass: ['jsbook', 'b5paper,openany,tombo']
 dvicommand: dvipdfmx
-dvioptions: "-p a4 -x 40 -y 58"
+dvioptions: "-p 262mm,374mm -x 40mm -y 58mm"
 
 debug: true
 
